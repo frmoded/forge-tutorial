@@ -1,0 +1,18 @@
+---
+type: action
+---
+
+# Description
+
+Chapter 8 — a note that calls itself to multiply n by every number below it.
+
+## Inputs
+
+- n — non-negative integer
+
+# Recipe
+
+Input n: int = 5.
+If n <= 1:
+  Return 1.
+Return n * Call [[factorial]] with n=n - 1.

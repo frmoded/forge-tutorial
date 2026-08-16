@@ -2,7 +2,7 @@
 
 The oldest tradition in programming: make the computer say hello.
 
-Open the **hello_world** note and **run** it. You'll see:
+Open the [[hello_world]] note and **run** it. You'll see:
 
 ```
 hello, world
@@ -16,7 +16,7 @@ That's it. You ran a program.
 
 ## What you're looking at
 
-Open the **hello_world** note and look at it. A note has two parts that matter
+Open the [[hello_world]] note and look at it. A note has two parts that matter
 here: the frontmatter and the Recipe.
 
 **The frontmatter** — the little block at the very top, between the `---` lines —
@@ -44,7 +44,7 @@ you the result.
 
 ## Exercise
 
-In the **hello_world** note, replace `"hello, world"` with your own text —
+In the [[hello_world]] note, replace `"hello, world"` with your own text —
 your name, a greeting, anything — keeping the double quotes. Then run it again.
 The output changes to match.
 
@@ -54,7 +54,7 @@ see what happened.**
 ## Palette focus
 
 The chip palette on the right shows every construct available. In this chapter
-you only need **Return** — the one construct in `hello_world`. You'll see other
+you only need **Return** — the one construct in [[hello_world]]. You'll see other
 palette entries like `Let`, `If`, `For each`, `Call` — ignore them for now.
 We'll cover each one in later chapters (`Let` in [[Variables]], `Call` in
 [[Functions]], `If` in [[Conditionals]], `For each` in [[Loops]]).

@@ -4,7 +4,7 @@ Here's a surprising idea: a note is allowed to call **itself**. That's
 **recursion** — a tidy way to solve a problem by doing a little bit and handing
 the rest to another copy of itself.
 
-Open the **show_factorial** note and **Forge** (🔥) it. You'll see:
+Open the **show_factorial** note and **run** it. You'll see:
 
 ```
 120
@@ -37,7 +37,7 @@ pointed at the same note that contains it. That's all recursion is.
 
 ## Exercise
 
-Open the **show_factorial** note and change `n=5` to `n=6`. **Forge** 🔥 it —
+Open the **show_factorial** note and change `n=5` to `n=6`. **Run** it —
 the answer jumps to `720`. Then try `n=3` and check it by hand: `3 × 2 × 1 = 6`.
 
 ## Palette focus
@@ -47,5 +47,7 @@ No new palette constructs in this chapter — recursion re-uses `Let`, `Call`,
 name via `Call [[factorial]]` from inside `factorial`. Watch the base-case
 guard (the `If n < 2` branch) — recursion without a base case runs forever.
 
-That's the core tour. One more idea — letting Forge fill in a value for you with
-`{{ … }}` — is next in [[Slots]].
+That's the core tour. One more idea — letting the engine fill in a value for
+you with `{{ … }}` — is next in [[Slots]].
+
+**What's next:** [[show_factorial]]

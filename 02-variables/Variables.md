@@ -3,7 +3,7 @@
 In chapter 1 you returned a fixed message. This time, let's give values names so
 we can build with them.
 
-Open the **greeting** note and **run** it. You'll see:
+Open the [[greeting]] note and **run** it. You'll see:
 
 ```
 Hello, Ada
@@ -35,13 +35,13 @@ is a *name* standing for a value, not the literal word "greeting". Quotes mean
 
 ## Exercise
 
-Open the **greeting** note, change `"Ada"` to your own name, and run again —
+Open the [[greeting]] note, change `"Ada"` to your own name, and run again —
 the greeting follows. Then try changing `"Hello, "` to `"Hi there, "`. Two boxes,
 one result: that's what variables buy you.
 
 ## Palette focus
 
-Focus on **Let** for this chapter — you'll see it twice in `greeting`.
+Focus on **Let** for this chapter — you'll see it twice in [[greeting]].
 `Return` from chapter 1 comes back too, handing the built-up greeting to the
 Output panel. Ignore `If`, `Otherwise`, `For each` for now — those come in
 later chapters ([[Conditionals]], [[Loops]]).

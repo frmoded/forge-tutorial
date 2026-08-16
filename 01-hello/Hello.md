@@ -2,7 +2,7 @@
 
 The oldest tradition in programming: make the computer say hello.
 
-Open the **hello_world** note and **Forge** (🔥) it. You'll see:
+Open the **hello_world** note and **run** it. You'll see:
 
 ```
 hello, world
@@ -32,22 +32,23 @@ one line:
 Read it out loud — it almost reads like English, and that's the point. It says:
 *hand back the text "hello, world" as this note's result.*
 
-- **Return** is the **output verb** — the word that tells Forge what this note
-  hands back when you 🔥 it. Every note that produces a result uses `Return`.
+- **Return** is the **output verb** — the word that tells the engine what this
+  note hands back when you run it. Every note that produces a result uses
+  `Return`.
 - **"hello, world"** is the **text** being returned. Text always goes in double
   quotes.
 - The line starts with **Return** and ends with a **.** — every instruction does.
 
-When you Forge it (the 🔥 button), Forge reads that Recipe, works out what to
-run, and shows you the result.
+When you run it, the engine reads that Recipe, works out what to do, and shows
+you the result.
 
 ## Exercise
 
 In the **hello_world** note, replace `"hello, world"` with your own text —
-your name, a greeting, anything — keeping the double quotes. Then Forge it again.
+your name, a greeting, anything — keeping the double quotes. Then run it again.
 The output changes to match.
 
-That's the loop you'll use for the whole tutorial: **change one thing, Forge it,
+That's the loop you'll use for the whole tutorial: **change one thing, run it,
 see what happened.**
 
 ## Palette focus
@@ -58,4 +59,4 @@ palette entries like `Let`, `If`, `For each`, `Call` — ignore them for now.
 We'll cover each one in later chapters (`Let` in [[Variables]], `Call` in
 [[Functions]], `If` in [[Conditionals]], `For each` in [[Loops]]).
 
-When you're ready, go to [[Variables]] — where we start giving names to things.
+**What's next:** [[hello_world]]

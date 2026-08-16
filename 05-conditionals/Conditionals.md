@@ -3,7 +3,7 @@
 Programs get interesting when they make choices. This system does that with
 **If** and **Otherwise**.
 
-Open the **weather** note and **run** it:
+Open the [[weather]] note and **run** it:
 
 ```
 It's pleasant.
@@ -31,7 +31,7 @@ Since `72` is not greater than `80`, it skips the first block and runs the
 
 ## Exercise
 
-Open the **weather** note, change `72` to `95`, and run again. Now the
+Open the [[weather]] note, change `72` to `95`, and run again. Now the
 condition is true, so you'll see "It's hot." Try a few values right around `80`
 to find the dividing line.
 

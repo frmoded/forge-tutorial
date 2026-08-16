@@ -1,7 +1,6 @@
 ---
 type: action
 inputs: [style]
-  - style
 source_facet: description
 sync_state: stale-python
 description_hash: 1f399496530d424c1cb3fa1bf1cd2aa4c7faede4a922f7a6857827c0b6dd4521

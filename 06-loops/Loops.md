@@ -2,7 +2,7 @@
 
 When you want to do the same thing several times, you use a **loop**.
 
-Open the **countdown** note and **run** it:
+Open the [[countdown]] note and **run** it:
 
 ```
 3
@@ -43,7 +43,7 @@ Rule of thumb: use `Return` when you have one answer to hand back, and
 
 ## Exercise
 
-Open the **countdown** note, add more numbers to the list — try
+Open the [[countdown]] note, add more numbers to the list — try
 `<5, 4, 3, 2, 1>` — and run again. The countdown grows on its own, no extra
 lines needed. Then change `"Liftoff!"` to your own send-off.
 

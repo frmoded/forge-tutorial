@@ -4,7 +4,7 @@ Not every note *does* something. Some just *hold* something — a list, a
 number, a chunk of text — ready for other notes to use. Those are **data
 notes**.
 
-Open the **show_colors** note and **Forge** (🔥) it:
+Open the **show_colors** note and **run** it:
 
 ```
 red
@@ -31,13 +31,13 @@ countdown: a loop that shows multiple things uses `[[print]]`, not `Return`.)
 Action notes *do*; data notes *hold*; together they keep your values in one
 place.
 
-> The **colors** chip is in your 🔥 palette — a value you can drop into any
+> The **colors** chip is in your palette — a value you can drop into any
 > note.
 
 ## Exercise
 
 Open the **colors** note and add a color — `["red", "green", "blue",
-"purple"]` — then **Forge** 🔥 the **show_colors** note again. The loop picks
+"purple"]` — then **run** the **show_colors** note again. The loop picks
 up your new color with no other changes. The data and the steps that use it stay
 separate, which is exactly the point.
 
@@ -52,4 +52,4 @@ No new palette constructs; the new idea is the note's `type: data` frontmatter.
 `colors` is a data note; `show_colors` is a normal action note that consumes
 it. Focus on the shape difference between the two.
 
-When you're ready, go to [[Recursion]] — where a step learns to call itself.
+**What's next:** [[show_colors]]

@@ -1,12 +1,12 @@
 ---
 type: action
+source_facet: description
 ---
 
 # Description
 
-Chapter 8 — calls the factorial note and returns the result.
+Calls the factorial note and returns the result.
 
-**What's next:** [[factorial]]
 
 # Recipe
 

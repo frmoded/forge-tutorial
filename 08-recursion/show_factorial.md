@@ -1,6 +1,5 @@
 ---
 type: action
-source_facet: description
 ---
 
 # Description

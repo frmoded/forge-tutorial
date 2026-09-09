@@ -40,12 +40,12 @@ A note that takes an input and returns something is this system's idea of a
 **function**: a named, reusable step. And making one is just making another
 note.
 
-## Exercise 1
+## Exercise - Fix a bug
 
 Open [[fix_the_call]] — it's broken exactly that way. Run it, read the real
 error, then fix the call.
 
-## Exercise 2
+## Exercise - Two inputs
 
 Open [[function_inputs]] and run it — it takes **two** inputs, `first_name`
 and `last_name`, and joins them:
@@ -54,7 +54,7 @@ and `last_name`, and joins them:
 Ada Lovelace
 ```
 
-## Exercise 3 (make your own)
+## Exercise - Make your own function
 
 Let's write a function of your own.
 

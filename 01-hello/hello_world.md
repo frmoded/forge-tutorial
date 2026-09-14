@@ -12,7 +12,7 @@ python_derived_from_recipe_hash: f9b77731c88889f2724e58f2c2a104c22758661b6b71c20
 
 # Description
 
-Returns the exact text "hello, world".
+Prints the exact text "hello, world".
 
 # Recipe
 

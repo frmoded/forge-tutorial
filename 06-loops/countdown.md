@@ -4,7 +4,7 @@ type: action
 
 # Description
 
-Does the same thing once for each item in a list.
+Does the same thing once for each item in a list: here a countdown from 3, ending with Liftoff!
 
 # Recipe
 

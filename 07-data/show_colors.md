@@ -27,5 +27,4 @@ def compute(context):
   palette = colors()
   for color in palette:
     print(color)
-
 ```

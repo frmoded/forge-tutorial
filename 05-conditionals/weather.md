@@ -1,6 +1,6 @@
 ---
 type: action
-description_hash: 26980ddb766f4afb51793fd94e980ccc090cc745b36e8657e85e1ec22a4a354f
+description_hash: d302c620b35ee6d18a7395bae088a7e4511245dc719e3f3576fd4359d437774f
 recipe_hash: d2913a48e5244d390091652aa8a093c63f61bff65e9ae2c5f3ad8dcaeb00b9a2
 python_hash: e93fced355617ea05436f03785e210e3a5000cd7116fcb4f0d3360ab246f7ee9
 recipe_derived_from_source_hash: 26980ddb766f4afb51793fd94e980ccc090cc745b36e8657e85e1ec22a4a354f
@@ -12,7 +12,7 @@ python_derived_from_recipe_hash: d2913a48e5244d390091652aa8a093c63f61bff65e9ae2c
 
 # Description
 
-Chooses what to say based on a value.
+Sets the temperature to 72. Returns "It's hot." if the temperature is above 80, and "It's pleasant." otherwise.
 
 # Recipe
 
